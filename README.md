@@ -1,3 +1,4 @@
+```cpp
 #include <windows.h>
 #include <stdio.h>
 #include <time.h>
@@ -136,3 +137,4 @@ void Initialize(double(*A)[K],double(*B)[N],double(*C)[N]) {
                             B[i][j] = 1 + 3 * i - 6.9 * j ;
                }}
 }
+```
